@@ -9,7 +9,8 @@ Features:
 ### Parts to assemble:
 | Count | Part               | Filament | Notes                                              |
 |:-----:|:------------------:|:--------:|:--------------------------------------------------:|
-| 2     | earcup             | Hard*    | Houses the driver.                                 |
+| 1     | earcup             | Hard*    | Houses the driver.                                 |
+| 1     | earcup_xlr         | Hard*    | Houses the driver and the mini XLR socket.         |
 | 2     | driver_plate       | Hard*    | Holds the driver. Inserted into earcup.            |
 | 2     | driver_plate_ring  | Hard*    | Holds the driver_plate in place in the earcup.     |
 | 4     | driver_bracket     | Soft**   | Holds down the driver to the driver_plate.         |
@@ -21,6 +22,7 @@ Features:
 | 2     | slider_rod         | Hard*    | Slides into the slider part 1 + part 2.            |
 | 2     | 40 mm driver       |          | Inserted into driver_plate.                        |
 | 1     | Mini XLR cable     |          |                                                    |
+| 1     | Mini XLR socket    |          | Mounts to earcup_xlr. Mounting hole is 11.4 mm.    |
 | 1     | 3-4 mm wire        |          | 2 wires inside. Connects the earcups/drivers.      |
 | 2     | DT-series earpads  |          | Attaches to the earcups.                           |
 | 1     | DT-series headband |          | Attaches to the headband.                          |
