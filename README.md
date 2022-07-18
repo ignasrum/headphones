@@ -33,7 +33,7 @@ Features:
 | 8     | M3 nut             |          | Inserted into slider_part_1.                             |
 | 8     | 25mm? M3 screw     |          | Screws for the slider mechanism.                         |
 | 8     | 4mm M3 screw       |          | Screws the driver_bracket to driver_plate.               |
-| 2     | 6mm M3 screw       |          | Screws the slider_rod to earcup_band.                    |
+| 2     | 10mm M3 screw      |          | Screws the slider_rod to earcup_band.                    |
 | 1     | Felt fabric        |          | Optional: used for tuning the sound.                     |
 
 \* Filaments such as PLA, PETG etc.
