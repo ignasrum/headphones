@@ -6,6 +6,8 @@ Features:
 * Utilizes Beyerdynamic DT770/DT880/DT990 earpads and headband
 * Mini XLR socket
 
+![prototype](./docs/images/image_1.jpg)
+
 ### Parts to assemble:
 | Count | Part               | Filament | Notes                                              |
 |:-----:|:------------------:|:--------:|:--------------------------------------------------:|
@@ -37,4 +39,6 @@ Features:
 \** Filaments such as TPU, TPC, TPA etc.
 
 ### Notes
-* Testing
+* Mirror the parts depending on your setup.
+* Use as small and narrow M3 inserts as possible, some of the wider ones may not fit.
+* Use countersunk screws.
