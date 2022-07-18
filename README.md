@@ -4,6 +4,7 @@ Features:
 * 3D printable
 * 40 mm drivers
 * Utilizes Beyerdynamic DT770/DT880/DT990 earpads and headband
+* Mini XLR socket
 
 ### Parts to assemble:
 | Count | Part               | Filament | Notes                                              |
