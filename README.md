@@ -41,5 +41,5 @@ Features:
 
 ### Notes
 * Mirror the parts depending on your setup.
-* Use as small and narrow M3 inserts as possible, some of the wider ones may not fit.
+* Use as small and narrow M3 inserts as possible, some of the cheaper/wider ones may not fit.
 * Use countersunk screws.
