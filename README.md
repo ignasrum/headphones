@@ -19,6 +19,8 @@ Features:
 | 2     | slider_part_1      | Hard*    | Part 1 of the slider mechanism.                    |
 | 2     | slider_part_2      | Soft**   | Part 2 of the slider mechanism.                    |
 | 2     | slider_rod         | Hard*    | Slides into the slider part 1 + part 2.            |
+| 2     | DT-series earpads  |          | Attaches to the earcups.                           |
+| 1     | DT-series headband |          | Attaches to the headband.                          |
 | 8     | M3 insert          |          | Heated and inserted into driver_plate.             |
 | 8     | M3 nut             |          | Inserted into slider_part_1.                       |
 | 8     | 25mm? M3 screw     |          | Screws for the slider mechanism.                   |
