@@ -19,6 +19,9 @@ Features:
 | 2     | slider_part_1      | Hard*    | Part 1 of the slider mechanism.                    |
 | 2     | slider_part_2      | Soft**   | Part 2 of the slider mechanism.                    |
 | 2     | slider_rod         | Hard*    | Slides into the slider part 1 + part 2.            |
+| 2     | 40 mm driver       |          | Inserted into driver_plate.                        |
+| 1     | Mini XLR cable     |          |                                                    |
+| 1     | 3-4 mm wire        |          | 2 wires inside. Connects the earcups/drivers.      |
 | 2     | DT-series earpads  |          | Attaches to the earcups.                           |
 | 1     | DT-series headband |          | Attaches to the headband.                          |
 | 8     | M3 insert          |          | Heated and inserted into driver_plate.             |
