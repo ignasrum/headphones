@@ -11,7 +11,7 @@ Features:
 | 2     | earcup             | Hard*    | Houses the driver.                                 |
 | 2     | driver_plate       | Hard*    | Holds the driver. Inserted into earcup.            |
 | 2     | driver_plate_ring  | Hard*    | Holds the driver_plate in place in the earcup.     |
-| 4     | driver_bracket     | Soft**   | Holds down the driver in the driver_plate.         |
+| 4     | driver_bracket     | Soft**   | Holds down the driver to the driver_plate.         |
 | 2     | driver_gasket      | Hard*    | Gasket for the driver. Inserted into driver_plate. |
 | 2     | earcup_band        | Hard*    | Goes around the earcup.                            |
 | 1     | headband           | Hard*    |                                                    |
