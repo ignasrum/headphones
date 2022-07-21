@@ -41,7 +41,7 @@ Features:
 \** Filaments such as TPU, TPC, TPA etc.
 
 ### Notes
-* Mirror the parts depending on your setup.
+* Mirror the parts depending on your setup (cable on left/right earcup etc).
 * Use as small and narrow M3 inserts as possible, some of the cheaper/wider ones may not fit.
 * Use countersunk screws.
 
