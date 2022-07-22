@@ -7,7 +7,7 @@ Features:
 * Mini XLR socket
 * Open headphones (you hear everything around you)
 
-![prototype_image_1](./docs/images/image_1.jpg)
+![prototype_image_2](./docs/images/image_2.jpg)
 
 ### Parts to assemble:
 | Count | Part               | Filament | Notes                                                    |
@@ -45,4 +45,4 @@ Features:
 * Use as small and narrow M3 inserts as possible, some of the cheaper/wider ones may not fit.
 * Use countersunk screws.
 
-![prototype_image_2](./docs/images/image_2.jpg)
+![prototype_image_1](./docs/images/image_1.jpg)
