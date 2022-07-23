@@ -5,7 +5,7 @@ Features:
 * 40 mm drivers
 * Utilizes Beyerdynamic DT770/DT880/DT990 earpads and headband
 * Mini XLR socket
-* Open headphones (you hear everything around you)
+* Open/closed versions of the earcups
 
 ![prototype_image_2](./docs/images/image_2.jpg)
 
