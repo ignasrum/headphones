@@ -6,6 +6,7 @@ Features:
 * Utilizes Beyerdynamic DT770/DT880/DT990 earpads and headband
 * Mini XLR socket
 * Open/closed versions of the earcups
+* Designed with durability and repairability in mind
 
 ![prototype_image_2](./docs/images/image_2.jpg)
 
