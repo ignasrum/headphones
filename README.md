@@ -46,4 +46,4 @@ Features:
 * Use as small and narrow M3 inserts as possible, some of the cheaper/wider ones may not fit.
 * Use countersunk screws.
 
-![prototype_image_1](./docs/images/image_1.jpg)
+![prototype_image_1](./docs/images/image_4.jpg)
